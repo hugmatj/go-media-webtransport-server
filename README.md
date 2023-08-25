@@ -1,6 +1,6 @@
 # go-media-webtransport-server
 
-This is an experimental media server that uses WebTransport. It can be used in conjunction with following live encoder and player [webcodecs-capture-play](https://github.com/facebookexperimental/webcodecs-capture-play). Both repos allows us create a live streaming platform where we can control the knob latency vs quality
+This is an experimental media server that uses WebTransport. It can be used in conjunction with following live encoder and player [webcodecs-capture-play](https://github.com/hugmatj/webcodecs-capture-play). Both repos allows us create a live streaming platform where we can control the knob latency vs quality
 
 Lowest end to end latency archived under perfect network conditions <60ms)
 
